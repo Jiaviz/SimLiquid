@@ -30,7 +30,7 @@ SimLquid
 │   ├── assets
 │   │   ├── haven
 │   ├── cfgs
-│   │   ├── liquids_blender_render.py
+│   │   ├── liquid.yaml
 │   ├── liquid_render.py
 │   ├── render.sh
 ├── README.md

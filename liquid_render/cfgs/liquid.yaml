@@ -1,0 +1,62 @@
+"cups_path": "blender_projs/liquids.blend"
+"hdri_path": "assets/hdri"            
+"render_sample_rate": 128
+"shell_params":
+  "radius_min": 0.30
+  "radius_max": 0.80
+  "elevation_min": 10
+  "elevation_max": 70
+"distance_range": [0.1, 0.5]
+"distractor_objs_num": 0
+"k_matrix":
+  [[658.971, 0, 486.199], [0, 658.811, 298.289], [0, 0, 1]]
+"image_size":
+  [960, 600]
+"environment_type":
+  "hdri"
+"id_dict":
+  "cup1": 1
+  "cup2": 2
+  "cup3": 3
+  "cup4": 4
+  "cup5": 5
+  "cup6": 6
+  "cup7": 7
+  "cup8": 8
+  "cup9": 9
+  "cup10": 10
+  "cup11": 11
+  "cup12": 12
+  "cup13": 13
+  "cup14": 14
+  "cup15": 15
+  "cup16": 16
+  "cup17": 17
+  "cup18": 18
+  "cup19": 19
+  "cup20": 20
+"liquid_range":
+  "cup1": [0.099, 0.201]
+  "cup2": [0.0, 0.101]
+  "cup3": [0.0, 0.1705]
+  "cup4": [0.0, 0.269]
+  "cup5": [0.0, 0.141]
+  "cup6": [0.02, 0.210]
+  "cup7": [0.01, 0.18]
+  "cup8": [-0.03, 0.04]
+  "cup9": [-0.03, 0.04]
+  "cup10": [-0.034, 0.086]
+  "cup11": [0.0, 0.22]
+  "cup12": [0.0, 0.12]
+  "cup13": [-0.061, 0.059]
+  "cup14": [-0.023, 0.032]
+  "cup15": [0.0, 0.091]
+  "cup16": [0.0, 0.172]
+  "cup17": [0.0, 0.291]
+  "cup18": [0.0, 0.049]
+  "cup19": [0.0, 0.477]
+  "cup20": [0.0, 0.221]
+
+# optional
+# "bop_path": "bop_dataset"
+

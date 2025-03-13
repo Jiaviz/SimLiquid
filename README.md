@@ -4,7 +4,7 @@
 
 ### 🛠️ Environment Setup
 
-Use conda or mamb to create a new environment and activate it:
+Use conda or mamba to create a new environment and activate it:
 ```Bash
 conda create -n liquid python=3.10
 conda activate liquid
